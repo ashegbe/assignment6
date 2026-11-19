@@ -1,7 +1,8 @@
 # Assignment 6: Triviabook
 
 ## Database schema
-
+## Deployment Link: 
+https://assignment6-p1pj.onrender.com/triviabook/random
 **topics**
 
 | Column | TYPE    |
